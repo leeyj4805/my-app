@@ -11,7 +11,7 @@ body {
 }
 
 .app {
-  width: 400px;
+  width: 500px;
   margin-top: 72px;
 }
 
@@ -55,4 +55,18 @@ button {
 
 button:hover {
   background-color: #a99fee;
+}
+
+.result-header {
+  font-size: 64px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.result-score {
+  font-size: 192px;
+  margin: 40px;
+  text-align: center;
+  color: rgb(115, 98, 255);
 }
